@@ -1,9 +1,4 @@
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 제목 </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 자기소개1</li>자기소개2</li>자기소개3</li></li>자기소개4</li> </div>
-</div>
-
-<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Skills </h2>
     <span>Architecture & Design</span>
     <br/>
@@ -78,10 +73,28 @@
     <img src="https://img.shields.io/badge/CSS3-003545?style=flat&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-003545?style=flat&logo=thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-003545?style=flat&logo=vuedotjs&logoColor=white">
+</div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Studying </h2>
+    <span>Architecture & Design</span>
+    <br/>
+    <img src="https://img.shields.io/badge/MSA (Micro Service Arcitecture)-003545?style=flat&logoColor=white">
+    <br/>
+    <span>In Memory</span>
+    <br/>
+    <img src="https://img.shields.io/badge/Redis-003545?style=flat&logo=redis&logoColor=white">
+    <br/>
+    <span>Event Streaming</span>
+    <br/>
+    <img src="https://img.shields.io/badge/Kafka-003545?style=flat&logo=apachekafka&logoColor=white">
+    <br/>
+</div>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2>
     <div style="text-align: left;">
-      <a href=mailto:kjunyeong0118@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kjunyeong0118@gmail.com"> </a>
-      <a href=https://www.instagram.com/kjunyeong0118> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kjunyeong0118"> </a>
+      <a href=mailto:kjunyeong0118@gmail.com> <img src="https://img.shields.io/badge/Gmail-003545?style=flat&logo=Gmail&logoColor=white&link=mailto:kjunyeong0118@gmail.com"> </a>
+      <a href=https://www.instagram.com/kjunyeong0118> <img src="https://img.shields.io/badge/Instagram-003545?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kjunyeong0118"> </a>
     </div>
 </div>
