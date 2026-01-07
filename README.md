@@ -16,14 +16,14 @@
     <img src="https://img.shields.io/badge/EDA (Event Driven Architecture)-003545?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/AOP (Aspect Oriented Programming)-003545?style=flat&logoColor=white">
     <br/>
-    <span>Languages</span>
-    <br/>
-    <img src="https://img.shields.io/badge/Java-003545?style=flat&logoColor=white">
-    <br/>
     <span>Framework</span>
     <br/>
     <img src="https://img.shields.io/badge/Spring Framework-003545?style=flat&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-003545?style=flat&logo=springboot&logoColor=white">
+    <br/>
+    <span>Languages</span>
+    <br/>
+    <img src="https://img.shields.io/badge/Java-003545?style=flat&logoColor=white">
     <br/>
     <span>Persistence</span>
     <br/>
@@ -61,9 +61,11 @@
     <br/>
     <img src="https://img.shields.io/badge/WebSocket-003545?style=flat&logo=websocket&logoColor=white">
     <img src="https://img.shields.io/badge/SSE-003545?style=flat&logo=sse&logoColor=white">
-    <img src="https://img.shields.io/badge/Callback-003545?style=flat&logo=callback&logoColor=white">
     <img src="https://img.shields.io/badge/Webhook-003545?style=flat&logo=webhook&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-003545?style=flat&logo=thymeleaf&logoColor=white">
+    <br/>
+    <span>VCS</span>
+    <br/>
     <img src="https://img.shields.io/badge/Git-003545?style=flat&logo=Git&logoColor=white">
     <br/>
     <span>WEB & WAS</span>
@@ -75,9 +77,9 @@
     <span>Frontend</span>
     <br/>
     <img src="https://img.shields.io/badge/Javascript-003545?style=flat&logo=Javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue.js-F05032?style=flat&logo=vuedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-003545?style=flat&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-003545?style=flat&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-003545?style=flat&logo=vuedotjs&logoColor=white">
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2>
     <div style="text-align: left;">
