@@ -48,7 +48,7 @@
     <br/>
     <img src="https://img.shields.io/badge/Kafka-003545?style=flat&logo=apachekafka&logoColor=white">
     <br/>
-    <span>Build & Tool</span>
+    <span>Build & Tool & VCS</span>
     <br/>
     <img src="https://img.shields.io/badge/Gradle-003545?style=flat&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/Maven-003545?style=flat&logo=maven&logoColor=white">
@@ -56,17 +56,14 @@
     <img src="https://img.shields.io/badge/Spring REST Docs-003545?style=flat&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-003545?style=flat&logo=swagger&logoColor=white">
     <img src="https://img.shields.io/badge/Flyway-003545?style=flat&logoColor=white">
-    <br/>
-    <span>etc</span>
-    <br/>
-    <img src="https://img.shields.io/badge/WebSocket-003545?style=flat&logo=websocket&logoColor=white">
-    <img src="https://img.shields.io/badge/SSE-003545?style=flat&logo=sse&logoColor=white">
-    <img src="https://img.shields.io/badge/Webhook-003545?style=flat&logo=webhook&logoColor=white">
-    <img src="https://img.shields.io/badge/Thymeleaf-003545?style=flat&logo=thymeleaf&logoColor=white">
-    <br/>
-    <span>VCS</span>
-    <br/>
     <img src="https://img.shields.io/badge/Git-003545?style=flat&logo=Git&logoColor=white">
+    <br/>
+    <span>Communication Protocols</span>
+    <br/>
+    <img src="https://img.shields.io/badge/REST-003545?style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/Webhook-003545?style=flat&logo=webhook&logoColor=white">
+    <img src="https://img.shields.io/badge/SSE-003545?style=flat&logo=sse&logoColor=white">
+    <img src="https://img.shields.io/badge/WebSocket-003545?style=flat&logo=websocket&logoColor=white">
     <br/>
     <span>WEB & WAS</span>
     <br/>
@@ -74,11 +71,12 @@
     <img src="https://img.shields.io/badge/Jeus-003545?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Nginx-003545?style=flat&logo=nginx&logoColor=white">
     <br/>
-    <span>Frontend</span>
+    <span>Frontend & etc.</span>
     <br/>
     <img src="https://img.shields.io/badge/Javascript-003545?style=flat&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-003545?style=flat&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-003545?style=flat&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Thymeleaf-003545?style=flat&logo=thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-003545?style=flat&logo=vuedotjs&logoColor=white">
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2>
